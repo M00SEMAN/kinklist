@@ -1,40 +1,184 @@
-# Body Part Size
-(Small, Large)
+#Body Part Size
+(Tiny, Small, Average, Large, Huge)
 * Asses
+? Expresses an interest in buttocks size
 * Cocks
+? Expresses an interest in penis size
 * Balls
+? Expresses an interest in ball size
 * Breasts
+? Expresses an interest in breast size
+
+#Sexual Orientation
+(General)
+* Heterosexual (Cis)
+? Expresses an interest purely in members of the opposite sex
+* Lesbian/Gay (Cis)
+? Expresses an interest purely in members of the same sex
+* Bisexual (Cis)
+? Expresses an interest in members of both sexes who are gender-conforming
+* Heterosexual (NB/TG)
+? Expresses an interest in members of the opposite gender identity
+* Lesbian/Gay (NB/TG)
+? Expresses an interest in members of the same gender identity
+* Bisexual (NB/TG)
+? Expresses an interest in members of both sexes and male/female gender identity
+* Pansexual
+? Expresses an interest in all sexes and genders
+* Non-Binary Attraction
+? Expresses an interest in people who do not conform to the gender binary
 
 #Bodies
-(General)
+(Self, Male Partner, Female Partner)
+* Tall
+? Expresses an interest in characters that are tall (3"-6" above average)
+* Average Height
+? Expresses an interest in characters that are average height
+* Short
+? Expresses an interest in characters that are short (3"-6" below average)
+* Very Tall
+? Expresses an interest in characters that are very tall (More than 6-9" above average)
+* Very Short
+? Expresses an interest in characters that are very short (That are 6-9" below average)
+* Extremely Tall
+? Expresses an interest in characters that are extremely tall (10"+ above average)
+* Extremely Short
+? Expresses an interest in characters that are extremely short (10"+ below average)
+* Taller
+? Expresses an interest in characters that are taller than your character or taller than your partner
+* Shorter
+? Expresses an interest in characters that are shorter than your character or that your character is shorter than your partner
+* Same Height
+? Expresses an interest in characters who are the same height
 * Skinny
 ? Expresses an interest in characters that are waifish, thin, or slender.
 * Chubby
-? Expresses an interest in characters that are well-rounded, full in form, and pudgy.
-* Cut Cocks
+? Expresses an interest in characters that are a little chubby, but not in the obese category
+* Fat
+? Expresses an interest in character that is in the obese category, but not exceptionally fat
+* Average Build
+? Expresses an interest in characters who are average in build. Being neither fat, not thin, nor muscular
+* Very Fat
+? Expresses an interest in characters that are exceptionally overweight or obese.
+* Very Lithe
+? Expresses an interest in characters that are exceptionally thin or lank.
+* Very Muscular
+? Expresses an interest in characters that are exceptionally muscular or toned.
+* Voluptuousness
+? Expresses an interest in characters with wider than average hips and large buttocks.
+* Anorexic
+? Expresses an interest in anorexic characters
+* Curvy
+? Expresses an interest in curvy characters
+* BBW/BHM
+? Expresses an interest in Big Beautiful Women or Big Handsome Men
+* Super-Size BBW/BHM
+? Expresses an interest in Super-Size Big Beautiful Women or Super-Size Big Handsome Men
+* Intact Penises
+? Expresses an interest in penises that have not been circumsized or have a large amount of foreskin.
+* Circumcised Penises
 ? Expresses an interest in circumcised penises, or penises with very little foreskin.
+* Larger Penis
+? Expresses an interest in characters with a larger penis than another character
+* Smaller Penis
+? Expresses an interest in characters with a smaller penis than another character
+* Larger Breasts
+? Expresses an interest in characters with larger breasts than another character
+* Smaller Breasts
+? Expresses an interest in characters with smaller breasts than another character
+* Larger Ass
+? Expresses an interest in characters with a larger ass than another character
+* Smaller Ass
+? Expresses an interest in characters with a smaller ass than another character
 * Glasses
 ? A preference for characters who wear glasses.
-* Muscular Partners
+* Athletic
+? Expresses an interest in characters who are athletic, but not necessarily muscly. Toned
+* Muscular
 ? Expresses an interest in characters that are powerfully-built and/or athletic.
+* Butch
+? Expresses an interest in female characters that have stereotypically masculine features
+* Feminine
+? Expresses an interest in feminine characters
+* Masculine
+? Expresses an interest in masculine characters
 * Nonsexual Piercings
 ? Engaging in sex with a character who has piercings on parts of his or her body that are not of a sexual nature, such as but not limited to tongue, ears, bellybutton etc.
-* Pubic Hair
-? Expresses an interest in pubic hair, possibly in large or excessive quantities.
+* Genital Piercings
+? Engaging in sex with a character who has piercings that are in the genitalia
+* Nipple Piercings
+? Engaging in sex with a character who has piercings that are in the nipples
+* No Pubic Hair
+? Expresses an interest in characters who do not have any pubic hair and will not grow pubic hair
+* Shaved/Waxed/Plucked Pubic Hair
+? Expresses an interest in characters who do not have pubic hair thanks to shaving, waxing, or plucking all of it
+* Shaped Pubic Hair
+? Expresses an interest in characters who shape their pubic hair into shapes, such as diamonds, hearts, etc...
+* Trimmed Pubic Hair
+? Expresses an interest in characters who trim their pubic hair, such as a bikini trim or a landing strip
+* Managed Pubic Hair
+? Expresses an interest in characters who manage their pubic hair to not get unseemingly but don't put much effort in. These characters are relatively bushy
+* Natural Pubic Hair
+? Expresses an interest in characters who do not manage their pubic hair at all
 * Twinks
 ? Expresses an interest in male characters that are feminine and subtly defined.
 * Twins
 ? Expresses an interest in two or more characters who are identical, often siblings, who may or may not be played by the same player.
-* Uncut Cocks
-? Expresses an interest in penises that have not been circumsized and have a large amount of foreskin.
-* Very Fat Partners
-? Expresses an interest in characters that are exceptionally overweight or obese.
-* Very Lithe Partners
-? Expresses an interest in characters that are exceptionally thin or lank.
-* Very Muscular Partners
-? Expresses an interest in characters that are exceptionally muscular or toned.
-* Voluptuousness
-? Expresses an interest in characters with wider than average hips and large buttocks.
+
+
+
+#Sexual Experience
+(Self, Male Partner Partner, Female Partner)
+* Virgin
+? Expresses interest in a character who has never had sex
+* Basic Experience
+? Expresses interest in a character who has had sex with one or two people
+* Experienced
+? Expresses interest in a character who has had sex with 3-6 people
+* Very Experienced
+? Expresses interest in a character who has had sex with 7-10 people
+* Slut/Stud
+? Expresses interest in a character who has had sex with 11 or more people
+* More Sexually Experienced
+? Expresses an interest in a character with more sexual experience
+* Less Sexually Experienced
+? Expresses an interest in a character with less sexual experience
+* Same Sexual Experience
+? Expresses an interest in a character with the same level of sexual experience (both first time, both have a long history etc...)
+* Never Kissed
+? Expresses interest in a character who has never been kissed
+* Never Hugged
+? Expresses interest in a character who has never been hugged
+* Affection-Starved
+? Expresses interest in a character who has been starved of affection of any kind. Characters like this will react strangely to signs of affection and being given affection due to unfamiliarity. They may also be desperate for affection. They could have experienced affection before (Typically long ago)
+* Love-Starved 
+? Expresses interest in a character who has been starved of romantic love.  Characters like this will react strangely to signs of love and being loved due to unfamiliarity. They may also be desperate to be loved. They could have had prior relations (Typically long ago)
+* Sex-Starved
+? Expresses interest in a character who has been starved of sex of any kind.  Characters like this will react strangely to sexual advances and sex due to unfamiliarity. They may also be desperate to be sex. They can be non-virgins (Typically, sex occurred long ago)
+* No Romantic History
+? Expresses an interest in characters who have had no romantic history
+* Basic Romantic History
+? Expresses an interest in characters who have had one or two prior romantic partners
+* Moderate Romantic History
+? Expresses an interest in characters who have had 3-6 prior romantic partners
+* Long Romantic History
+? Expresses an interest in characters who have had 7-10 prior romantic partners
+* Very Long Romantic History
+? Expresses an interest in characters who have had 11 or more prior romantic partners
+* Cougar/Male Cougar
+? Expresses an interest in more experienced characters (Romantically or Sexually) who seek out inexperienced partners. 
+* More Romantically Experienced
+? Expresses an interest in characters with more romantic experience
+* Less Romantically Experienced
+? Expressses an interest in characters with less romantic experience
+* Equal Romantic Experience
+? Expresses an interest in characters with the same level of romantic experience (both first time, both have a long history etc...)
+* Oral Virginity
+? Expresses interest in characters who have never had oral sex
+* Anal Virginity
+? Expresses interest in characters who have never had anal sex
+* Vaginal/Penile Virginity
+? Expresses interest in characters who have never had penile or vaginal sex
 
 #Clothing
 (Self, Partner)
@@ -56,19 +200,166 @@
 ? Expresses an interest in the inclusion of stockings in the sexual context of an RP, or an interest in characters wearing such.
 * Uniform / costume
 ? Expresses an interest in the inclusion of uniforms or costumes in the sexual context of an RP, or an interest in characters wearing such.
+* Clothed Female Naked Male
+? Expresses an interest in including scenarios where female characters retain their clothing and male characters are naked
+* Clothed Male Naked Female
+? Expresses an interest in including scenarios where male characters retain their clothing and female characters are naked
+* Clothed Male Naked Male
+? Expresses an interest in including scenarios where some male characters retain their clothing and male characters are naked
+* Clothed Female Naked Female
+? Expresses an interest in including scenarios where some female characters retain their clothing and some female characters are naked
+* Forced Nudity
+? The act of either forcing a character to be nude or being forced to be nude by another character; typically used in public situations.
+* Medical Clothing
+? Expresses an interest in medical clothing or uniforms
+* Space Suit
+? Expresses an interest in space suits
+* HAZMAT 
+? Expresses an interest in hazardous material suits, such as radiation suits
+* Futuristic Armour
+? The usage of futuristic armour or equipment as clothing
+* Modern Armour
+? The usage of modern military armour or equipment as clothing
+* Medieval Armour
+? The usage of medieval armour or equipment as clothing
+* Ancient Armour
+? The usage of ancient military equipment as clothing
+* Pre-Historic Clothing
+? The usage of basic, pre-historic clothing such as fur as pieces of clothing
+* Gas Masks
+? The usage of gas masks in clothing
+* SCUBA
+? Expresses an interest in Self-Contained Underwater Breathing Apparatuses
+* SCBA
+? Expresses an interest in Self-Contained Breathing Apparatuses
+* Offence to the Dress
+? A roleplay in which the dominant character considers any clothing that the submissive character has to be offensive. That the submissive character should always be naked and that even accidentally covering themselves is considered as an offence against the dominant character(s). 
+* Forced Clotheswearing
+? A roleplaying in which one character chooses what another will wear. Typically as a form of humiliation or embarrassment. Not necessarily crossdressing
 
 #Pairings
 (Self, Partner)
 * as Male
+? Interest in male characters
 * as Female
+? Interest in female characters
+* as Tomboy
+? Females who behave in a stereotypically masculine manner. Tomboys may appear very feminine or very masculine as being a tomboy is a personality trait, not an outward appearance
+* as Tomgirl
+? Males who behave in a stereotypically feminine manner. Tomgirls may appear very masculine or very feminine as being a tomgirl is a personality trait, not an outward appearance 
 * as Femboy
-* as Futa
+? Interest in effeminate, girly males.
+* as Trap
+? Interest in exceptionally feminine male characters, to the point of convincing people they are female
+* as Female-Trap
+? Interest in exceptionally masculine female characters, to the point of convincing people they are male
+* as Futanari
+? Interest in characters who have an overall very feminine body, but have either a male genitalia or both female and male genitalia (although testicles are not always present)
+* as Hermaphrodite
+? Interest in female-appearing or identifying characters with both a penis and vagina
+* as Salmacis (Male-Herm)
+? Interest in male-appearing or identifying characters with both a penis and vagina
+* as Cuntboy
+? Interest in male-appearing characters with a vagina
+* as Dickgirl
+? Interest in female appearing characters with a penis
 * as MtF trans
+? Interest in Male to Female transgender people
 * as FtM trans
+? Interest in Female to Male transgender people
 * as male & female
+? Interest in playing both male and female characters
 * as multiple males
+? Interest in playing more than one males
 * as multiple females
+? Interest in playing more than one female
 * as multiple males & females
+? Interest in playing multiple males and females
+
+#Play/Sex Contacts
+(General)
+* You and 1 Male
+? Yourself and a Male character
+* You and 1 Female
+? Yourself and a Female character
+* You and MtF
+? Yourself and a Male-To-Female Transgender character
+* You and FtM
+? Yourself and a Female-To-Male Transgender character
+* You and 2 Males
+? Yourself and two Male characters
+* You and 2 Females
+? Yourself and two Female characters
+* You and 1 Male, 1 Female
+? Yourself and a Male and a Female character
+* You and 2 Females
+? Yourself and two Female characters
+* You and 3+ Males
+? Yourself and three or more Male characters
+* You and 3+ Females
+? Yourself and three or more Female characters
+* Orgy
+? Yourself and a variety of other characters and genders
+
+#Relationship Style
+(General)
+* Monogamous
+? Expresses an interest in monogamous relationships
+* Polyamorous
+? Expresses an interest in polyamorous relationships
+* Polygamous
+? Expresses an interest in a relationship between one man and multiple women
+* Polyandrous
+? Expresses an interest in a relationship between one woman and multiple men
+* Stringless
+? Expresses an interest in very short-term sexual partners with no strings attached
+* Friends-with-Benefits
+? Expresses an interest in a purely sexual non-romantic relationship
+* Deep Romance
+? Expresses an interest in slow-paced, slowly rising romantic relationships. Usually sex does not occur for a long time (6+ months) and not until after a deep romantic bond is formed
+* Quick Romance
+? Expresses an interest in quick romantic relationships, where sex occurs early on in the romantic relationship
+* Sex-First Romance-Second
+? Expresses an interest in a romantic relationship that forms after a sexual encounter
+* Aromantic Asexual 
+? Expresses a lack of interest in sexual or romantic relationships
+
+#Non-Sexual
+(Giving, Receiving)
+* Romance
+? Expresses an interest in romance
+* Flirting
+? Expresses an interest in flirting or being flirted with
+* Hugging
+? Expresses and interest in hugging or being hugged
+* Bear Hugs
+? Expresses an interest in crushing hugs
+* Mouth Kisses
+? Expresses an interest in kisses on the mouth
+* French-Kisses
+? Expresses an interest in kisses that involve the touching of tongues
+* Sloppy Kisses
+? Expresses an interest in sloppy kisses. Typically of a passionate, deep romantic nature
+* Neck/Face Kisses
+? Expresses an interest in kissing or being kissed on the neck and face
+* Body Kisses
+? Expresses an interest in kissing or being kissed on the body
+* Genital Kisses
+? Expresses an interest in kissing or being kissed on the genitals
+* Ass Kisses
+? Expresses an interest in kissing or being kissed on the ass (Literally)
+* Hickeys
+? Expresses an interest in giving or receiving hickeys
+* Cuddling
+? Expresses an interest in cuddling or being cuddled
+* Spooning
+? (Giving = Big Spoon, Receiving = Little Spoon). Expresses an interest in the act of spooning
+* Headpats/Headrubs 
+? Expresses an interest in patting/rubbing or being patted/rubbed on the head. Usually in a playful congratulatory manner
+* Protecting/Being Protected
+? Expressses an interest in situations where the character or partner will stand in for their counterpart to defend them, or protect them against attacks. Whether they be verbal, emotional or physical. 
+* Hair playing
+? Expresses an interest in hair fondling, or playing with one's hair. Usually in a flirting or adoring manner
 
 #General
 (Giving, Receiving)
@@ -80,7 +371,6 @@
 ? A preference for sexual interactions between characters in an RP to be fully consenting, by their characters' own free wills.
 * Cuddling
 ? Characters showing affection through hugging, snuggling, and other forms of physical closeness.
-cavity and/or throat, sometimes causing a gag reflex, or being the recipient of such actions.
 * Dirty Talking
 ? The act of speaking in a typically explicit manner to provoke sexual stimulation from a participant, sometimes one's self; often in the context of seduction or foreplay.
 * Docking
@@ -89,8 +379,6 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Keeping on the edge of climax without orgasm
 * Ear Play
 ? Interest in roleplay where ears play an important role. This can involve suckling, caressing, breathing/whispering into, pulling them, or any other kind of interaction focusing on the ears.
-* Femboys
-? Effeminate, girly males.
 * Flexibility/Contortionism
 ? Exceptional or unrealistic flexibility, typically used to achieve extremely difficult or impossible sexual positions to derive maximum stimulation.
 * Face-sitting
@@ -135,8 +423,6 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Refers to extended scenes of foreplay prior to explicit, sexual intercourse, which may be physical and/or verbal, typically to arouse one's partner to the point of sexual frustration or desperation.
 * Tickling
 ? The act of tickling and/or being tickled in a sexual context of an RP; or, receiving sexual stimulation from such.
-* Tomboys
-? Females who behave or present themselves in a masculine manner.
 * Transformation
 ? The act of causing the physical characteristics of a participant of an RP, possibly including one's self, by magical or chemical means, to change in a dramatic fashion; may refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
 * Tribadism / Scissoring
@@ -147,17 +433,32 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Exhibits a preference for characters that exhibit below-average intelligence, often low enough to make them easy to manipulate; this includes everything from air-headed bimbos to large, animalistic brutes.
 * Vanilla Sex
 ? Sex which does not involve such elements as BDSM, kink, or fetish activities.
+* Anal Sex
+? Sex involving the anus as the point of penetration 
 * Voyeurism/Exhibitionism
 ? Refers to the derivation of sexual stimulation from either/or the action of watching, typically in secret, a person (or people) reveal themselves or do something otherwise explicit, or the act of revealing one's self and/or doing something otherwise explicit with the intent to be viewed.
+* JOI/SI
+? Jerk-off/Stroke instructions. The act of one character telling the other character how to masturbate and pleasure themselves. Usually involves edging and orgasm control. May also involve humiliation, Domination/submission, Clothed/nude scenarios
+* Penis Humiliation 
+? A scenario where one character is humiliated for their penis, be it size, appearance, shape etc...
+* Breast Humiliation
+? A scenario where one character is humiliated for their breasts, be it their size, appearance, shape etc...
+* Ass Humiliation
+? A scenario where one character is humiliated for their ass, be it size, appearance, shape etc...
+* Height Humiliation
+? A scenario in which a character is humiliated for their height. Whether it be tall or short
+* Weight Humiliation
+? A scenario in which a character is humiliated for their weight. Be it light or heavy
 
-# Oral Sex
+
+#Oral Sex
 (Giving, Recieving)
 * Blowjob
 ? Sexual stimulation by direct, physical contact of the mouth or tongue to male genitals
 * Cunnilingus
 ? Sexual stimulation by direct, physical contact of the mouth or tongue to female genitals
 * Deep throat
-? The act of penetrating the mouth of another character to the depths at which the penis or insertion enters the back of the mouth 
+? The act of penetrating the mouth of another character to the depths at which the penis or insertion enters the back of the mouth
 * Face-Fucking
 ? Refers to the act of penetrating the mouth of another character with a similar technique as fucking a vagina or anus, typically by bracing the mouth or skull and thrusting back and forth; often rough.
 * Oral Virginity
@@ -194,7 +495,9 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? The use of bondage that is mild or moderate in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
 * Bondage (Heavy)
 ? The use of bondage that is extreme in either the position in which it causes the bound character to be in, the duration for which the character will be in bondage, the level of discomfort caused by the bondage or the amount of immobilization that will occur due to the bondage.
-* Chastity
+* Permanent Chastity
+? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity, or the wearing of a device that prevents it.
+* Temporary Chastity
 ? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity, or the wearing of a device that prevents it.
 * Collar
 ? Wearing a collar around the neck
@@ -204,6 +507,10 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? The act of placing and lodging an object in another character's mouth to force him or her to breathe through his or her nose, as well as creating the inability to speak, or receiving such actions.
 * Leash
 ? Being lead around on a leash
+* Vacuum Bed
+? The usage of a vacuum bed to asphyxiate as well as immobilize a character
+* Spread Bars
+? Bars that are attached to the limbs as to keep them spread and restrict movement
 
 #Toys
 (Self, Partner)
@@ -217,11 +524,31 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Engaging in an RP in which at least one character will wear a strap-on to penetrate another character.
 * Vibrators
 ? a vibrating device used for sexual stimulation.
+* Anal Beads
+? Beads on a string inserted into the anus to be slowly pulled out for the purpose of sexual pleasure
+* Douchebag
+? A device typically used for cleaning human orifices using warm water
+* Inflatable Toys
+? Toys such as ballons, or inflatable sex dolls
+* Silicon Dolls
+? Silicon Sex Dolls
+* Improvised Toys
+? Toys made out of what's on hand. A little creativity is required
+* Breast Pumps
+? Pumps made to suction the breasts. Potentially used as a form of milking 
+* Suction Cups
+? Cups used for suctioning on the body, usually to apply pain in some way
+* Genital Pumps
+? Pumps placed on the genitals, usually for the purpose of forcing an orgasm to the point of post-orgasm torture
+* Clamps/Clothespins
+? Clamps and clothespins, designed to squeeze the skin and inflict pain. Can be used on genitals, nipples or general body locations
 
 #Domination
 (As Dominant, As Submissive)
 * General Dom / General Sub
 ? Catchall for Dominant/Submissive Activities.
+* Forthright/Desperate
+? Expresses an interest in a character who is forthright as a dom. That is, they will say what they want upon meeting and directly. No beating around the bush. Ex. when first meeting they will demand the other character to strip or serve without explanation. Or a character who is desperate as a sub. Will be straight up and honest about their interest in submitting and even beg to submit
 * Domestic servitude
 ? Being served by a butler, waitress, chauffeur, maid or housekeeper, or serving as one.
 * DD/lg, MD/lb
@@ -241,6 +568,8 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? A relationship with service at the core.
 * Pet play
 ? Petplay is a in role in which the focus is on the sub entering the altered mind space of a different species, often a dog, cat, or horse.
+* Servitude
+? Serving as a servant of the dominant. Having more rights than a slave but still being subservient
 * Slavery
 ? Serving as the dominant's beck and call, or recieving such service, without choice.
 
@@ -263,6 +592,8 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 
 #Taboo
 (General)
+* Age Play
+? Refers to scenes in which one or more of the characters are under the legal age of consent
 * Age Gap
 ? Refers to scenes in which there is a signifigant gap in the ages of characters.
 * Bestiality
@@ -271,16 +602,122 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Where one or both partners are being unfaithful to significant others.
 * Exhibitionism
 ? Engaging in an RP in which the setting is of a public nature; typically used in conjunction with exhibitionism and/or humiliation.
+* Male Supremacy
+? Refers to scenes in which males are considered superior to the opposite sex
+* Female Supremacy
+? Refers to scenes in which females are considered superior to the opposite sex
+* Male Deification
+? Refers to roleplays where some or all males are considered to be literal gods that are worshipped and treated as such. They may or may not have godlike or supernatural powers
+* Female Deification
+? Refers to roleplays where some or all females are considered to be literal goddesses that are worshipped and treated as such. They may or may not have godlike or supernatural powers
 * Incest
 ? Engaging in an RP in which at least two characters will be related
 * Interracial
 ? Scenes based on interracial interactions without relying on racial stereotypes.
 * Raceplay
 ? Scenes based on racial stereotypes or racism, including scenes set in racist settings.
+* Speciesism
+? Scenes based around different species such as aliens or non-humans that involves some kind of bigotry between them. 
+* Extinction
+? Roleplays involving a species or a race going extinct or being in the process of going extinct, typically as some form of humiliation and encouraged or cheered on by one or more characters
+* Racial/Species Deification
+? Roleplays in which members of a certain race or species are treated as deities by other races or species. They may or may not have godlike or supernatural powers
+* Racial/Species Supremacy
+? Refers to scenes in which certain races or species are considered inherently superior to others
 * Necrophilia
 ? The act of having sex with a dead, or otherwise unconscious or inanimate, character that was once alive, or, theoretically, receiving such actions.
 * Voyeurism
 ? Refers to the derivation of sexual stimulation from either/or the action of watching, typically in secret, a person (or people) reveal themselves or do something otherwise explicit, or the act of revealing one's self and/or doing something otherwise explicit with the intent to be viewed.
+* Religious
+? Refers to roleplays in which a religion, usually kink-related, exists and is worshipped and adhered to. With the potential of characters converting to it or blaspheming their own religion in its name or for the benefits it offers
+* Blasphemy/False Deity/Idol Worship
+? Refers to roleplays in which a character who has a religion, forgoes their religion for worshipping another, or making their own. This is typically associated with roleplays in which one character worships another as their literal deity, or is forced into another religion. 
+
+#Incest
+(Self, Partner)
+* Real Relatives
+? Interest in sexual encounters involving genetically related characters
+* Step-Relatives
+? Interest in sexual encounters involving non-related characters who are involved in family dynamics
+* Brother/Sister
+? Interest in involving playing as a brother or a sister
+* Son/Daughter
+? Interest in playing as a son or a daughters
+* Father/Mother
+? Interest in playing as a father or a mother
+* Uncle/Aunt
+? Interest in playing as an uncle or an aunt
+* Nephew/Niece
+? Interest in playing as a nephew or a niece
+* Cousin
+? Interest in playing as a cousin or second cousin
+* Grandfather/Grandmother
+? Interest in playing as a grandfather or grandmother
+* Grandson/Granddaughter
+? Interest in playing as a grandson or granddaughter
+* Great- (Older)
+? Interest in playing a character with the "great-" prefix who is older (i.e. great-grandfather)
+* Great- (Younger)
+? Interest in playing a character with the "great-" prefix who is younger (i.e. great-grandson)
+* Forced Incest
+? Interest in scenarios where one or all of the characters involved in incest are involved against their will
+* Oblivious Incest
+? Interest in scenarios where the characters are unaware they are related. Potentially to be revealed later on
+
+#Ages
+(Self, Partner)
+* Baby (0-2) 
+? Interest in baby characters
+* Toddler (2-4)
+? Interest in toddler characters
+* Young Child (5-6)
+? Interest in young child characters
+* Child (7-9)
+? Interest in child characters
+* Pre-Teen (10-12)
+? Interest in pre-pubescent characters
+* Early Teen (13-15)
+? Interest in early pubescent characters
+* Middle Teen (16-17)
+? Interest in adolescent characters
+* Late Teen (18-19)
+? Interest in barely legal characters
+* Early Adult (20-25)
+? Interest in early adult characters
+* Young Adult (26-29)
+? Interest in young adult characters
+* Middle Adult (30-39)
+? interest in adults who are typically settled down but still appear fairly young
+* Old Adult (40-49)
+? Interest in adults who are in their middle-age
+* Mature (50-64)
+? Interest in adults who are usually past age of fertility
+* Elderly (65-74)
+? Interest in the elderly, usually of retirement age and still mentally sound
+* Extreme Elderly (75+)
+? Interest in extremely old characters, usually senile
+* Younger
+? Interest in younger characters
+* Older
+? Interest in older characters
+* Barely Younger
+? Interest in characters who are 1-2 years younger
+* Barely Older
+? Interest in characters who are 1-2 years older
+* Slightly Younger
+? Interest in characters who are 3-5 years younger
+* Slightly Older
+? Interest in characters who are 3-5 years older
+* Much Younger
+? Interest in characters who are 6-9 years younger
+* Much Older
+? Interest in characters who are 6-9 years older
+* Far Younger
+? Interest in characters who are 10+ years younger
+* Far Older
+? Interest in characters who are 10+ years older
+* Same Age
+? Interest in characters who are within 12 months of the character's birthdate 
 
 #General Surrealism
 (Self, Partner)
@@ -343,7 +780,7 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 * Transformation
 ? The act of causing the physical characteristics of a participant of an RP, possibly including one's self, by magical or chemical means, to change in a dramatic fashion; may refer to a myriad of different types of transformations, and connotates receiving sexual pleasure from the act of transformation itself.
 
-# Vore / Unbirth
+#Vore / Unbirth
 (General)
 * Absorption
 ? Vore by means of merging with the predator, or being absorbed and/or dissolved by an anatomical fluid of the predator.
@@ -373,7 +810,7 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? Being the consumed partner in a vore-related RP situation.
 
 #Fluids
-(General)
+(Giving, Receiving)
 * Blood
 ? Pertains to the inclusion of blood or the retrieval of blood in any form in a sexual context, or engaging in acts which will draw blood.
 * Cum play
@@ -392,25 +829,10 @@ cavity and/or throat, sometimes causing a gag reflex, or being the recipient of 
 ? The act of sweating and/or receiving sexual gratification from the appearance, taste, scent and/or tactility of sweat.
 * Watersports
 ? Pertains to the inclusion of urine, or the expelling of urine, in any form, in the sexual context of an RP.
-
-Degradation
-(Giving, Receiving)
-* Begging
-? The self-abasing act of pleading, as a form of submission, being incorporated into an RP.
-* Cock Slapping
-? The act of using one's penis to slap one's partner and/or being slapped by a penis, usually in order to humiliate or debase a bottom prior to or during fellatio.
-* Forced Nudity
-? The act of either forcing a character to be nude or being forced to be nude by another character; typically used in public situations.
-* Force Feeding
-? Engaging in an RP in which a character, typically bound or otherwise immobile, is forced to consume large, often impossible and unrealistic, amounts of food against his or her will, often resulting in inflation and/or weight gain.
-* Glory hole
-? Servicing a partner or recieving service from a partner with a physical barrier between the participants
-* Humiliation
-? Engaging in an RP in which one character will be embarrassed, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more intense form of degradation.
-* Name calling
-? Engaging in an RP in which one character will be called names, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment.
-* Verbal Abuse
-? The act of verbally accosting or being verbally accosted with derogatory terms pertaining to sex, or in the effort to demean, degrade or otherwise humiliate another character, or occasionally to elicit sexual stimulation from abuse.
+* Slime
+? Consuming the slime from a slime creature
+* Bubbles
+? Kink revolving around air bubbles or bubbles of other forms
 
 #Touch & Stimulation
 (Actor, Subject)
@@ -428,17 +850,27 @@ Degradation
 ? The act of tickling and/or being tickled in a sexual context of an RP; or, receiving sexual stimulation from such.
 
 #Misc. Fetish
-(Giving, Receiving)
+(Self/Receiving, Partner/Giving)
 * Breast/Nipple Worship
 ? Gratuitous acknowledgement of one's partner's chest or nipples, either verbal and/or physical, or receiving such actions.
 * Breath play
 ? A situation in which at least one character will have physical control over the breathing habits of another character, often by either intermittent choking and/or due to the penetration of the throat.
+* Asphyxiation 
+? A situation in which at least one character cannot breathe due to a lack of oxygen in some form
+* Drowning
+? A situation in which at least one character cannot breathe thanks to drowning
 * Breeding
 ? Entails the act sexual intercourse for the sole purpose of inducing pregnancy and/or producing offspring.
 * Crotch Sniffing
 ? The act of receiving pleasure from inhaling the scent of the crotch, or receiving such actions. Emphasis is often placed on the musk and/or pheromone-related properties of the scent.
-* Cuckold / Cuckquean
-? Refers to the act of a character who, within the confines of the RP world has been designated to be in a relationship, will have sexual interaction with a character other than the one who has been predetermined to be in a relationship, in the context of the RP.
+* Name Calling
+? The act of referring to or being referred to by demeaning or deragatory names
+* Public Use
+? The act of using or being used as a sexual object in public, usually with the idea of public humiliation 
+* Forced Exhibitionism
+? The act of forcing or being forced to exhibit oneself, usually for the purpose of shame or public humiliation 
+* Free Use
+? A kink that expresses the interest in being free to use sexually or non-sexually by anyone who so pleases, regardless of relationship, appearance etc... Usually mixes extreme humiliation with non-con 
 * Double Penetration
 ? The act of penetrating a single character with two objects, including but not limited to the penis, sex toys, fist etc., or receiving such.
 * Extreme Tightness
@@ -452,9 +884,9 @@ Degradation
 * Foot Play
 ? The act of incorporating the feet or feet paws into the sexual context of an RP, including but not limited to the worshiping of feet, receiving sexual gratification from the sight or smell of feet and/or humping feet, sometimes to the point of orgasm.
 * Foreskin Worship
-* Gangbang
-? When multiple partners, usually 3 or more, engage in sexual intercourse with a single willing partner.
 ? Gratuitous acknowledgment of one's partner's foreskin, either verbal and/or physical, or receiving such actions; typically implies oral stimulation.
+* Gangbang
+? The act of one character being fucked by multiple characters at the same time
 * Genital/Nipple Piercings
 ? Engaging in an RP in which at least one character has piercings that are located on the nipples or sexual areas of the body; typically cock piercings.
 * Muscle Worship
@@ -475,10 +907,44 @@ Degradation
 ? Engaging in the removal of fur/hair from a participant in an RP by the means of shaving.
 * Slob
 ? Characters without hygiene or uncaring of typical standards for cleanliness due to laziness, personal choice, or otherwise; may emphasize and derive pleasure from laziness or from actions linked with a lack of hygiene.
+* Forced Nudity
+? The act of either forcing a character to be nude or being forced to be nude by another character; typically used in public situations.
+* Force Feeding
+? Engaging in an RP in which a character, typically bound or otherwise immobile, is forced to consume large, often impossible and unrealistic, amounts of food against his or her will, often resulting in inflation and/or weight gain.
+* Glory hole
+? Servicing a partner or recieving service from a partner with a physical barrier between the participants
+* Humiliation
+? Engaging in an RP in which one character will be embarrassed, typically extremely and/or frequently, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment; typically a more intense form of degradation.
+* Name calling
+? Engaging in an RP in which one character will be called names, in an attempt to elicit either a response of sexual gratification from the emotions correlating to humiliation, or merely as a form of psychological domination or punishment.
+* Verbal Abuse
+? The act of verbally accosting or being verbally accosted with derogatory terms pertaining to sex, or in the effort to demean, degrade or otherwise humiliate another character, or occasionally to elicit sexual stimulation from abuse.
+* Begging
+? The self-abasing act of pleading, as a form of submission, being incorporated into an RP.
+* Cock Slapping
+? The act of using one's penis to slap one's partner and/or being slapped by a penis, usually in order to humiliate or debase a bottom prior to or during fellatio.
+* Role-Reversal
+? A roleplay in which the characters roles reverse at some point. Be it leader/follower, dominant/submissive, protector/ward etc...
+* Gender Role-Reversal
+? A roleplay in which the characters fulfill opposite gender roles. With the male being in distress, needing saving or needing protection, and the female being the saviour or protector. The male typically being more soft and the female being more gruff 
+* Deification
+? A roleplay in which one or more characters is treated as a deity or literal god, with or without actual godliness
+* Apotheosis
+? A roleplay in which one or more characters actually end up achieving godhood of some kind
+* Threat of Injury or Death
+? Interest in there being threats of injury and death as to coerce a character to do something. This does not necessarily mean there will ever be injury or death
+* Lima Syndrome
+? The act of a character that is an abductor developing sympathy for their captives. Trusting and/or displaying affection for their captive/victim
+* Stockholm Syndrome
+? The act of a character trusting and displaying affection towards those responsible for kidnapping/taking them as a hostage, may or may not involve actual kidnapping or a domestic abuse relationship
+* Intercrural Sex
+? A form of non-penetrative sex done by inserting a penis between one's thighs in order to achieve orgasm
+* Hypnotism/Mind Control
+? A roleplay involving some kind of hypnotism or mind control, from either traditional hypnotism, magic, substances etc...
+* Fireplay
+? A kink revolving around the involvement of fire. May involve pain, searing, or burning. But it may also just involve acts that involve fire and the heat associated with it
 
-
-
-# Cum-related
+#Cum-related
 (General)
 * Bukkake
 ? The act of a group of at least two people ejaculating directly onto the face and/or body of a single recipient, or receiving such actions.
@@ -519,8 +985,8 @@ Degradation
 * Stomach Bulging
 ? Engaging in an RP in which a character's stomach will bulge, either due to an exceptionally large insertion (often taking the shape of such), due to eating an exceptionally large amount of food or as a localized form of inflation from any liquid or gas.
 
-# BDSM & Related
-(General)
+#BDSM & Related
+(Self, Partner)
 * Apparatuses
 ? The use of complex objects with moving parts in order to bondage, immobilize or otherwise sexually gratify and/or incapacitate a character, in the sexual context of an RP.
 * Begging
@@ -532,7 +998,9 @@ Degradation
 * Caging
 ? The act of placing another character in a cage, or being placed in a cage, or other confining, device.
 * Chastity
-? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity, or the wearing of a device that prevents it.
+? Sexual abstinence, either willing or forced; this can include someone simply abstaining from sexual activity,
+* Chastity Device
+? A device that enforces chastity by imprisoning the genitalia 
 * Coiling
 ? The act of becoming entwined, held or hugged in the grasp of a long tail, coils of a snake, serpent, or other long-bodied creature.
 * Competition
@@ -585,8 +1053,31 @@ Degradation
 ? Expresses an interest in engaging in an RP in which the submissive and/or bottom character is combative and disobedient in any number of ways.
 * Wax Play
 ? The act of using wax, typically hot candle wax, as a form of sexual stimulation and/or torture, or receiving such actions.
+* Complete submission
+? A roleplay in which the submissive is beyond mere submission. Garnering poetentially nothing of value from the dom-sub relationship. A relationship in which the dominant's pleasure and happiness are above even the most extreme suffering the submissive can endure. (I.e. if the dominant finds the submissive being forced to mutilate themselves even slightly humorous, it is considered "worth it" as the submissive is worthless compared to the dominant) 
+* Genital Ownership
+? A setting in which the dominant "owns" the genitals of the submissive. Considering it their property and that they get to choose what is done with it. It may also include referring to the submissive's genitalia as that of the dominant's 
+"This is my vagina" (male dom, female sub) "This is your penis" (male sub, female domme). Commonly combined with chastity or physical chastity
+* Genital Humiliation
+? Humiliation based on genitals, be it size, length, appearance, tightness etc... 
+* Honorific Titling
+? One or more characters being referred to with honorifics (i.e. Mistress/Master, Goddess/God, King/Queen, Sir/Miss) 
+* Dehumanization 
+? A roleplay in which one or more characters is completely dehumanized, treated as subhuman or as an object
+* Forniphilia
+? A roleplay in which one or more characters are made to act as furniture. Be it a footstool, seat or a table.
+* Post-Orgasm Torture
+? A form of torture, typically done on male characters, that involves continued stimulation of the genitals even after orgasm, as to incite pain in the victim mixed with intense pleasures. One of a few ways to produce multiple orgasms in men. 
+* Forced Orgasm
+? The act of forcing an orgasm out of someone either long before they were ready to orgasm, or after sexual exhaustion 
+* Ruined Orgasm
+? The act of removing stimulation from someone being stimulated just before climax as to cause the body to climax anyway. This is usually very arousing but also at the same time very disappointing 
+* Orgasm Control
+? An act where one character chooses when another can orgasm. This is typically used as a method of restricting orgasms but is less-commonly but perhaps more enjoyable used as the act of giving a character an orgasm when it is inconvenient for them
+* Orgasm Denial
+? The act of denying an orgasm. Usually part of orgasm control and mixed with edging. To bring someone close to orgasming without ever letting them orgasm
 
-# Watersports / Scat
+#Watersports / Scat
 (General)
 * Bathroom Control
 ? A situation in which a character controls when, how and where another character may use the bathroom in any fashion, typically as a form of control or degradation.
@@ -651,7 +1142,7 @@ Degradation
 ? One character scratching another with their nails or claws, sometimes leaving marks; sometimes but not necessarily painful.
 * Biting
 ? The act of biting or being bitten; sometimes painful, sometimes playful.
-* Cutting 
+* Cutting
 ? The act of cutting a partner to cause pain in a sexual context.
 * Snuff
 ? Murder a character as part of sex.
@@ -673,8 +1164,11 @@ Degradation
 ? The act of inserting one's penis into another penis and thrusting into it as if it were a more traditional orifice.
 * Hair Pulling
 ? The act of pulling or tugging on another character's hair, or being the recipient of such.
+* Blade Play
+? Pain play involving blades, but not necessarily slashing. May include stabbing or scraping 
 
-# Blood & Gore / Torture / Death
+
+#Blood & Gore / Torture / Death
 (General)
 * Abrasions
 ? Engaging in a situation in which at least one character will receive abrasions, defined as scrapes that are at their mildest in severity capable of causing bleeding; typically administered via rough or coarse objects, such as sandpaper or cement.
@@ -712,16 +1206,143 @@ Degradation
 ? Torture that is sexual in nature, or greatly harms one sexually.
 * Swallowing Blood
 ? The act of orally consuming blood.
+* Waterboarding 
+? The act of repeatedly pouring water over a characters mouth or submerging them rapidly to prevent them from breathing and cause them to inhale liquid
+* Meathooks
+? A kink around meathooks. Usually with one being hooked up on one. Or dismembered or killed and having their dead body or body parts hooked onto one
+
+#Other
+(Self/Receiving, Partner/Giving)
+* Cuckold / Cuckquean
+? Refers to the act of a character who, within the confines of the RP world has been designated to be in a relationship, will have sexual interaction with a character other than the one who has been predetermined to be in a relationship, in the context of the RP. (NOTE: Giving is to be the one DOING the cuckolding, receiving means to be the one being cuckolded) 
+* Netorare
+? A more generalized form of cuckolding where the person being cuckolded may not be in a romantic relationship with the character involved in sexual acts, but is either romantically interested in them or has close bonds. Such as a close friend, a crush, or a non-romantic/sexual relative. Usually resulting in feelings of intense jealousy akin to those that occur with cuckolding
+* Pregnancy 
+? A kink involving a character being pregnant, usually involving them having a belly and the other hormonal affects associated with prenancy
+* Impregnation
+? A kink revolving around a character being impregnated, usually soft or romantic. Sometime humiliating or extreme, or being impregnated by a character
+* Breeding
+? A kink revolving around a character being "bred" used as a breeding ground to make babies. Usually involves some level of dehumanization and humiliation. Reverse-breeding is when the female character forcing the male character to impregnant them, usually involving the same dehumanization and humiliation
+* Bimbofication
+? The act of a female character being slowly turned into a dumb, usually voluptuous women who only has her physical assets going for her
+* De-Bimbofication 
+? The act of a female character, usually dumb and voluptuous being turned into a more intelligent, but more normal appearing women 
+
 
 #Meta
 (Self, Partner)
 * First Person
+? Referring to oneself in the first person (I, me, myself)
+* Second Person
+? Referring to oneself in the third person (he, him) and your partner in the first (you) 
 * Third Person
-* Short Post Length (~1-3 sentences)
-* Medium Post Length (~3-7 sentences)
-* Long Post Length (~2-4 paragraphs)
-* Story (3+ paragraphs)
+? Referring to oneself in the third person
+* Short Post Length 
+? ~1-3 sentences
+* Medium Post Length 
+? ~3-7 sentences
+* Long Post Length 
+? ~2-4 paragraphs
+* Story
+? 3+ paragraphs
 * Dynamic Post Length
+? Post length will vary based on the situation. Dialogue might be limited to only a few words and sometimes just one in rapid succession, whereas scene setting can be multiple paragraphs, and everything inbetween
+* Long Introduction
+? Preferring the beginning has an unusually long introduction to set the scene, typically followed by short or medium post-lengths
+* Shared Characters
+? Characters that are controlled by one or more roleplaying partners (Typically side characters)
+* Playing multiple characters
+? Playing more than one character in a roleplay. Be it main characters, side characters or one-off characters
+* Background Characters
+? Playing background characters who might not even be described outside of an action they cause. This may include "off-screen" characters who may be very influential or characters who only show up once in the entirety of the RP
+* Side Characters
+? Playing characters who show up occasionally, but don't have terrible importance in the RP. These characters are recurring
+* Secondary Characters
+? Playing characters who show up frequently and have importance to the RP but are not the primary focus
+* Main Characters
+? Playing characters who are the primary focus of the RP. One can RP without every playing a main character
+* Storytelling (Player)
+? Interest in a roleplay where one is being told the story and generally doesn't know what is going to happen next, although they may or may not be able to influence the outcome with their character's decisions
+* Storytelling (Storymaster)
+? Interest in a roleplay where you weave the story and are in charge of its general or even specific direction. Can involve minimal to lots of planning ahead
+* Shared Storytelling
+? Interest in discussing and deciding on stories ahead of time, either both leading simultaneously or having dedicated sections for each to lead
+* Dungeon/Game Mastering
+? An interest in designing a game out of the roleplay. Potentially with dice rolls, but can be more simple as a single unknown countdown with two branches paths based on action or inaction etc... or far more complex. In general, the Dungeon Master will throw interesting events at the players as well as give them hard decisions, countdowns and time crunches they may or may not be aware of, and combat. 
+* Dungeon/Game Playing
+? An interest in playing in a roleplay that is like a game. Potentially with dice rolls, but can be more simple as a single unknown countdown with two branches paths based on action or inaction etc... or far more complex. In general, the Dungeon Master will throw interesting events at the players as well as give them hard decisions, countdowns and time crunches they may or may not be aware of, and combat. 
+* Post-Pigging
+? Interest in doing most of the writing of a roleplay. Post-pigging can play into Dom/sub dynamics where the submissive writes most of the roleplay for the dom to enjoy. It does not necessarily need this though
+* Writing the introduction
+? The one who initiates the roleplay
+* Playing Starters
+? An interest in playing either your own or your partners starters as well as your level of interest in each
+* Narrating
+? An interest in playing as the narrator exclusively, or having a narrator who describes what is occurring in the RP and potentially off-screen
+* Original Characters
+? Expressing an interest in characters that are of the player's own personalized creation
+* Canon Characters
+? Expressing an interest in characters from established media. Derived from official publicized content such as movies, video games, TV, comics, etc...
+
+
+#Story Meta
+(General)
+* No Lore
+? A roleplay in which there is no outside lore. Typically being incredibly simple in concept and setting. Requires no memorization
+* Basic Lore
+? A roleplay in which the lore is sufficient for the story to continue on but no further. Should be able to be kept in memory even after a long hiatus
+* Moderate Lore
+? A roleplay in which the lore is more than sufficient but not overly detailed as to become overbearing, should be able to be kept in working memory if the roleplay is played frequently
+* Heavy Lore
+? A roleplay in which the lore is very heavy, where it is difficult to keep track of with memory alone. Typically requiring organization of some level. typically to explain complex events or settings in the roleplay, as well as to "predict" future events in gamemastered roleplays or storytelling roleplays. 
+* Extreme Lore
+? A roleplay in which the lore likely exceeds the roleplay itself in sheer content. The lore will be impossible to keep track of without organization of some kind. Usually a built world that is designed to allow for many radically different roleplays in different regions and settings of said world. Typically with very complex lore for predicting future events in gamemastering as well as discussing perhaps rather complex issues one might find in a thought-provoking book. 
+* Feet First
+? A preference towards skipping any planning and jumping feet-first with an introduction to a roleplay and having the partner pick it up from there. Typically more suited to short term roleplays or roleplays with little to no loss
+* Basic Outline
+? A preference towards just getting a basic outline for what each partner wants to cover in the roleplay and go from there
+* Semi-Planned
+? A preference for planning some scenes ahead of time and getting to know what each partner wants from the roleplay and planning some of the story arc from beginning to end
+* Heavily Planned
+? A preference for planning some or all scenes ahead of time, or even planning every part of the story arc from beginning to end
+* Humour/Comedy
+? A preference for the inclusion of some comedy or humour in the roleplay. Be it dark or slapstick
+* Horror
+? A preference for the inclusion of horror elements in the roleplay
+* Combat
+? A preference for the inclusion of combat in the roleplay
+* Violence
+? A preference for the inclusion of violence in the roleplay
+* Action
+? A preference for action sequences or scenes in the roleplay
+* Stealth
+? A preference for the inclusion of stealth sections or elements in the roleplay
+* Roleplay within RP
+? A roleplay within a roleplay. This can involve characters trying out roleplaying. For example, two characters discovering BDSM and deciding to try it in RP. Or roleplaying as characters etc... or even online with each other
+* Slice of Life
+? Depiction of mundane everyday occurrences within the roleplay
+* Hinted Romance
+? There is hinted romance, occasional romantic moments, and probable romantic feelings but it never develops far
+* Light Romance
+? There is light romance, perhaps kissing or the occasional tantric sex, flirting etc... But it is never devloped to the point of dating or a relationship
+* Moderate romance
+? There is moderate romance, kissing, flirting, romantic sex, it may result in the characters dating or forming a relationship but it isn't the focus of the roleplay
+* Heavy Romance
+? A roleplay where romance is the focus or one of the major focuses
+* Story Focused
+? A roleplay where story and setting take precedence over sex
+* Sex Focused
+? A story where sex is the main feature of the roleplay, and the story just serves as a means to make sex interesting with a setup. Usually story is limited here to what is necessary
+* Rare Sexual Occcurrences
+? A roleplay in which sexual situations is rare (I.e. a romance focused RP with sex twice in the story)
+* Common Sexual Occurrences
+? A roleplay in which sexual situations happens occasionally but isn't a big focus
+* Frequent Sexual Occurrences
+? A roleplay in which sex or a sexual situation is happening frequently or much of the time. (i.e. A character with forced nudity when in private would have their roleplay fall here)
+* Exclusively Sexual Occurrences
+? A roleplay in which there is something sexual always occurring (i.e. constant nudity from one or more characters)
+* Tantric Sex
+? A form of sex characterized by its focus on intimacy and emotional closeness between involved parties. Often implies a long duration with a significant aim on their intertwining such as listening to heartbeats, breathing, and exploring one another through a deep romantic bond.
 
 #Medium
 (General)
@@ -731,6 +1352,10 @@ Degradation
 * E-Mail
 * Discord
 * Other
+* Direct Message
+? Expresses interest in the RP occurring within the same channel as the discussion about the RP an discussion outside of RP
+* Dedicated Chat/Server
+? Expresses interest in the RP having its own dedicated chat or server 
 
 #Time-Scale
 (Self, Partner)
@@ -743,3 +1368,132 @@ Degradation
 * Slow Replies (2~8 hours)
 * Glacial Replies (8-24 hours)
 * Occasional Replies (24+ hours)
+* Daily Sessions
+* Weekly Sessions
+* Monthly Sessions
+* Very Infrequent Sessions
+
+#Scenes
+(General)
+* School
+* Office
+* Prison
+* College/University
+* Private
+* Public
+* Outdoors
+* Beach
+* Pool
+* Gym
+* Spaceship
+* Sci-Fi
+* Prehistoric Era
+* Ancient Era
+* Medieval Era
+* Industrial Era
+* Early Modern Era
+* Current Era
+* Very Near Future
+* Near Future
+* Future
+* Far Future
+* Fantasy
+* Dungeon
+* Laboratory
+* Locker Room
+* Shower/Bath
+* Nightclubs
+* Bars
+* Underwater
+* Space
+* Zero-Gravity
+
+#Personality
+(Self, Partner)
+* Extrovert
+* Introvert
+* Ambivert
+* Outgoing
+* Shy
+* Active
+* Sedentary
+* Adventurous
+* Comfortable
+* Cautious
+* Reckless
+* Brave
+* Foolhardy
+* Cowardly
+* Defiant
+* Conformable
+* Uppity
+* Happy Disposition
+* Sad Disposition
+* Angry Disposition
+* Intelligent
+* Average Intelligence
+* Unintelligent
+* Mature
+* Immature
+* Witty
+* Honest
+* Dishonest
+* Bossy
+* Determined
+* Weak-Willed
+* Respectful
+* Disrespectful
+* Law-Abiding
+* Criminal
+* Dull
+* Complex
+* Energetic
+* Calm
+* Just
+* Unfair
+* Cruel
+* Kind
+* Sensitive
+* Friendly
+* Rude
+* Generous
+* Greedy
+* Stingy
+* Lazy
+* Sadistic
+* Masochistic
+* Self-Hating
+* Narcissistic
+* Low Self-Worth
+* High Self-Worth
+* Logical
+* Lonely
+* Loyal
+* Lucky
+* Mischievous
+* Quiet
+* Loud
+* Responsible
+* Irresponsible
+* Procrastinator
+* Aloof
+* Optimistic
+* Pessimistic
+* Very Jealous
+* Not Jealous
+* Goudere
+? Goudere characters are fanatical about impressing their love interest, up to the point of making comical mistakes in their efforts to please them.
+* Tsundere
+? A character that initially cold (and sometimes even hostile) before gradually showing a warmer, friendlier side over time.
+* Yandere
+? Someone who is clingy and jealous to their most pathological extremes, leading to criminal acts such as stalking, kidnapping, maiming, or murder (of you and/or their perceived rivals for your love).
+* Deredere
+? Someone who is typically very happy, affectionate, and open about their feelings, even in the early stages of love and even if they do not yet know if the love is reciprocated.
+* Dandere
+? Someone who has a shy and typically meek personality but who can become bolder and more open when they feel comfortable enough around the person
+* Kuudere
+? A kuudere acts relatively aloof and emotionless (instead of overtly hostile) but likes you more than what they show. They’re more likely to merely be uncomfortable about being too vulnerable or seeming weak than resenting you, though it’s not uncommon for them to also feel that they’re too good for you. They also may or may not become sweeter and more vulnerable as the relationship continues, depending on the health of the relationship. The true extent of their love may or may not be obvious to anyone else, but in fiction it tends to be, whereas in real life it tends not to be.
+* Sadodere
+? Sadodere characters get pleasure from putting their love interest in tough situations that cause either pain or humiliation, whether it be physical or emotional.
+* Hiyakasudere
+? Hiyakasudere characters take pleasure in teasing and flirting with their love interests.
