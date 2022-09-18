@@ -292,8 +292,6 @@
 ? Yourself and two Female characters
 * You and 1 Male, 1 Female
 ? Yourself and a Male and a Female character
-* You and 2 Females
-? Yourself and two Female characters
 * You and 3+ Males
 ? Yourself and three or more Male characters
 * You and 3+ Females
